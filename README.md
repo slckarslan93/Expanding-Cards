@@ -1,4 +1,4 @@
-#Expanding Cards
+# Expanding Cards
 
 <hr>
 <li>This project used Html, Css and javascript.
